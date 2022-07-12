@@ -1,0 +1,5 @@
+/* Add your custom extension styling here */
+.pm-container{ spacing: 6px; }
+.pm-btn{ border-radius: 10px; padding: 6px; }
+.pm-btn:hover, .pm-btn:focus{ background-color: rgba(255,255,255,0.2); }
+.pm-btn:active{ background-color: rgba(255,255,255,0.4); }

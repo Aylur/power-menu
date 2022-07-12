@@ -1,0 +1,8 @@
+{
+  "name": "Power Menu",
+  "description": "Moves power menu from aggregate menu to a seperate panelMenu",
+  "uuid": "power-menu@aylur",
+  "shell-version": [
+    "42"
+  ]
+}
